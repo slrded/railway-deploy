@@ -1,3 +1,2 @@
 #deploy catub on railway 
-CREDITS [ODI](https://t.me/FEEFDED)
-#1
+CREDITS [ODI](https://t.me/FEEFDED) [slr](https://t.me/shotta_flow_xd)
