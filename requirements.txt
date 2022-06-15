@@ -30,7 +30,7 @@ lyricsgenius
 markdown
 motor
 moviepy
-nekos.py
+
 Pillow
 prettytable
 psutil
