@@ -30,7 +30,6 @@ lyricsgenius
 markdown
 motor
 moviepy
-
 Pillow
 prettytable
 psutil
