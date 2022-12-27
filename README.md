@@ -2,4 +2,4 @@
 # CREDITS
  [ODI](https://t.me/FEElDED)
  and 
- [slr](https://t.me/shotta_flow_xd)
+ [slr](https://t.me/slrded)
