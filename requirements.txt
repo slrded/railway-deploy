@@ -6,7 +6,7 @@ cloudscraper
 colour
 covid
 cowpy
-
+git+https://github.com/alexmercerind/youtube-search-python
 dataclasses
 DateTime
 emoji==1.7.0
