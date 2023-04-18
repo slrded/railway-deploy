@@ -6,6 +6,7 @@ cloudscraper
 colour
 covid
 cowpy
+youtubesearchpython
 dataclasses
 DateTime
 emoji==1.7.0
