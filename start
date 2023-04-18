@@ -90,7 +90,7 @@ _set_bot () {
     chmod -R 755 bin
     pip install speedtest-cli
     pip install nekos.py
-    pip3 install -U pytgcalls==3.0.0.dev21
+    pip3 install -U pytgcalls==3.0.0.dev22
     chmod -R 755 /workspace/spotdl-master
     echo "USERBOT STARTED"
     python3 -m userbot
