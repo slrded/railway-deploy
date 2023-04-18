@@ -6,7 +6,7 @@ cloudscraper
 colour
 covid
 cowpy
-youtubesearchpython
+
 dataclasses
 DateTime
 emoji==1.7.0
@@ -68,6 +68,7 @@ vcsi
 wand
 wget
 git+https://github.com/goldsmith/Wikipedia
+git+https://github.com/alexmercerind/youtube-search-python
 hentai
 natsort
 python-ffmpeg
