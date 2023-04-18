@@ -68,7 +68,7 @@ vcsi
 wand
 wget
 git+https://github.com/goldsmith/Wikipedia
-git+https://github.com/alexmercerind/youtube-search-python
+
 hentai
 natsort
 python-ffmpeg
