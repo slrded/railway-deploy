@@ -1,7 +1,7 @@
 FROM twentystar/bootiful-cat:latest
 
 # Cloning-Repo
-RUN git clone https://github.com/tgcatub/catuserbot
+RUN git clone https://github.com/slrded/ub
 
 # Copying requirements.txt from base repo..
 COPY requirements.txt .
