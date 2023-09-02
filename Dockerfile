@@ -14,4 +14,4 @@ RUN python3 -m pip install --upgrade pip wheel setuptools &&\
 WORKDIR tuturu-helper
 
 # Start
-CMD ["python3","-m","userbot"]
+CMD ["sh","start"]
