@@ -1,7 +1,7 @@
 FROM twentystar/bootiful-cat:latest
 
 # Cloning-Repo
-RUN git clone https://github.com/curtsy-follicle/tuturu-helper
+RUN git clone https://github.com/tgcatub/catuserbot
 
 # Copying requirements.txt from base repo..
 COPY requirements.txt .
